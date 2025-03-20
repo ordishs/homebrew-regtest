@@ -1,8 +1,8 @@
 class Regtest < Formula
   desc "Small utility to run bitcoin-sv regtest on a mac"
   homepage "https://github.com/ordishs/bitcoin-sv-regtest"
-  url "https://github.com/ordishs/bitcoin-sv-regtest/releases/v1.0.0.tar.gz"
-  sha256 "386fcdb8ee1e59d4eb79e80178b540e9d288fd3b3e073c21a4fd074efe4d40d4"
+  url "https://github.com/ordishs/bitcoin-sv-regtest/archive/refs/tags/v1.0.0.tar.gz
+  sha256 "5e6edc82bae6c9f0e64853c972d0886d11e31e645a88a7ae956394e7f927e261"
   version "1.0.0"
 
   def install
